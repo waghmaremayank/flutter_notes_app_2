@@ -7,7 +7,7 @@ plugins {
 android {
     namespace = "com.example.flutter_notes_app_2"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    // ndkVersion = flutter.ndkVersion
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
